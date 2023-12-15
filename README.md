@@ -40,5 +40,8 @@ Phần mêm được cập nhật thường xuyên [TẠI ĐÂY](https://github.
 4. Sau khi hiển thị môn cần đăng ký thì lấy code bên phải ngoài cùng để nhập vào khung yêu cầu bên dưới
 5. Sau khi hiển thị các lớp cần đăng ký thì lấy code bên phải ngoài cùng để nhập vào khung yêu cầu bên dưới
 6. Done
+
+## Demo
+
 ![Hướng dẫn sử dụng](/IMAGE/ezgif.com-video-to-gif-converted.gif)
 
