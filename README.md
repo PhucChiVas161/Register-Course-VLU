@@ -41,7 +41,7 @@ Phần mềm được cập nhật thường xuyên [TẠI ĐÂY](https://github
 5. Sau khi hiển thị các lớp cần đăng ký thì số thứ tự phía bên trái ngoài cùng nhập vào khung yêu cầu bên dưới, Nếu có lớp thực hành thì nhập thêm số thứ tự của lớp thực hành tương ứng
 6. Done, đăng ký thành công
    </br>
-   P/s: Các bạn có thể bấm y để đăng ký tiếp. Khi đã thoát và đăng nhập lại, Có thể tốn thêm thời gian để ứng dụng hiển môn lại, nên đăng ký cùng 1 lượt hạn chế việc đăng nhập lại.
+   _P/s: Các bạn có thể bấm y để đăng ký tiếp. Khi đã thoát và đăng nhập lại, Có thể tốn thêm thời gian để ứng dụng hiển môn lại, nên đăng ký cùng 1 lượt hạn chế việc đăng nhập lại._
 
 ## Demo
 
