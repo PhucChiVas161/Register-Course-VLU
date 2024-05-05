@@ -43,4 +43,4 @@ Phần mêm được cập nhật thường xuyên [TẠI ĐÂY](https://github.
 
 ## Demo
 
-![Hướng dẫn sử dụng](/IMAGE/Untitled video - Made with Clipchamp (1).mp4)
+![Hướng dẫn sử dụng](/IMAGE/video.mp4)
