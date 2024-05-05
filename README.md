@@ -30,16 +30,17 @@ Mọi thắc mắc vui lòng liên hệ 😊👌.
 
 ## Download
 
-Phần mêm được cập nhật thường xuyên [TẠI ĐÂY](https://github.com/PhucChiVas161/Register-Course-VLU/releases)
+Phần mềm được cập nhật thường xuyên [TẠI ĐÂY](https://github.com/PhucChiVas161/Register-Course-VLU/releases)
 
 ## Cách sử dụng
 
 1. Chạy file .exe vừa tải xuống
 2. Khi chạy sẽ hiển thị giao diện yêu cầu nhập tài khoản và mật khẩu
 3. Chọn bằng số 1 hoặc 2 trên bàn phím để chọn đăng ký môn theo kế hoạch hoặc ngoài kế hoạch
-4. Sau khi hiển thị môn cần đăng ký thì lấy code bên phải ngoài cùng để nhập vào khung yêu cầu bên dưới
-5. Sau khi hiển thị các lớp cần đăng ký thì lấy code bên phải ngoài cùng để nhập vào khung yêu cầu bên dưới
-6. Done
+4. Sau khi hiển thị môn cần đăng ký thì chọn số thứ tự phía bên trái ngoài cùng nhập vào để đăng ký môn
+5. Sau khi hiển thị các lớp cần đăng ký thì số thứ tự phía bên trái ngoài cùng nhập vào khung yêu cầu bên dưới, Nếu có lớp thực hành thì nhập thêm số thứ tự của lớp thực hành tương ứng
+6. Done, đăng ký thành công
+   P/s: Các bạn có thể bấm y để đăng ký tiếp. Khi đã thoát và đăng nhập lại, Có thể tốn thêm thời gian để ứng dụng hiển môn lại, nên đăng ký cùng 1 lượt hạn chế việc đăng nhập lại.
 
 ## Demo
 
