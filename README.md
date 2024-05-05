@@ -1,14 +1,14 @@
 # Register-Course-VLU
-Công cụ này được phát triển nhằm mục đích hỗ trợ sinh viên VLU đăng ký môn học trực tuyến nhanh hơn (Maybe  ┑(￣Д ￣)┍).
-# <div style="text-align: center;"><b>Tuyên Bố Miễn Trừ Trách Nhiệm</b></div>
+
+Công cụ này được phát triển nhằm mục đích hỗ trợ sinh viên VLU đăng ký môn học trực tuyến nhanh hơn (Maybe ┑(￣ Д ￣)┍, I don't know, but I believe it can be done.).
 
 ## Mục đích
 
-Công cụ này được phát triển nhằm mục đích <span style="color:green">hỗ trợ</span> sinh viên đăng ký môn học trực tuyến.
+Công cụ này được phát triển nhằm mục đích hỗ trợ sinh viên VLU đăng ký môn học trực tuyến.
 
 ## Trách nhiệm
 
-Tôi <span style="color:red">không chịu</span> bất kỳ trách nhiệm nào về kết quả đăng ký của sinh viên.
+Tôi không chịu bất kỳ trách nhiệm nào về kết quả đăng ký của sinh viên.
 
 ### Cách thức hoạt động
 
@@ -16,7 +16,7 @@ Công cụ hoạt động bằng cách truy cập vào hệ thống đăng ký t
 
 ## Miễn trừ trách nhiệm
 
-Tôi <span style="color:red">không chịu trách nhiệm</span> về bất kỳ sai sót hoặc hậu quả có thể xảy ra.
+Tôi không chịu trách nhiệm về bất kỳ sai sót hoặc hậu quả có thể xảy ra.
 
 ### Trách nhiệm của người dùng
 
@@ -24,7 +24,7 @@ Sinh viên cần tự kiểm tra kết quả trên hệ thống của trường.
 
 ## Liên hệ
 
-Mọi thắc mắc vui lòng liên hệ tôi.
+Mọi thắc mắc vui lòng liên hệ 😊👌.
 
 # Hướng dẫn sử dụng
 
@@ -43,5 +43,4 @@ Phần mêm được cập nhật thường xuyên [TẠI ĐÂY](https://github.
 
 ## Demo
 
-![Hướng dẫn sử dụng](/IMAGE/ezgif.com-video-to-gif-converted.gif)
-
+![Hướng dẫn sử dụng](/IMAGE/Untitled video - Made with Clipchamp (1).mp4)
