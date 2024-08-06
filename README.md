@@ -1,3 +1,4 @@
+# Dự án dừng phát triển vì đã có website mới. Khi hoạt động trở lại, tôi sẽ mở lại repo này. Cảm ơn các bạn !!!
 # Register-Course-VLU
 
 Công cụ này được phát triển nhằm mục đích hỗ trợ sinh viên VLU đăng ký môn học trực tuyến nhanh hơn (Maybe ┑(￣ Д ￣)┍, I don't know, but I believe it can be done.).
